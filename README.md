@@ -20,13 +20,13 @@ Today I build cross-platform mobile apps with **Flutter** and modern web apps wi
 
 ## 🛤️ My Journey
 
-|  |  |
-|---|---|
-| 🎮 **The Spark** | Grew up fascinated by video games and hardware — the curiosity that eventually pulled me into software development. |
-| 🏫 **High School** | Studied Computer Science (*Liceo Informatico*), laying the technical foundations. |
-| 🚀 **ITS Academy** | Completed a 2-year regional **ITS program as a Full Stack Developer**. |
-| 💼 **Internship → Hired** | 800 hours of on-the-job internship that turned into a full-time position. |
-| 👨‍💻 **Today** | Full Stack Developer @ **Quasar Software**, focused on front-end across web & mobile. |
+<table>
+<tr><td>🎮 <strong>The Spark</strong></td><td>Grew up fascinated by video games and hardware — the curiosity that eventually pulled me into software development.</td></tr>
+<tr><td>🏫 <strong>High School</strong></td><td>Studied Computer Science (<em>Liceo Informatico</em>), laying the technical foundations.</td></tr>
+<tr><td>🚀 <strong>ITS Academy</strong></td><td>Completed a 2-year regional <strong>ITS program as a Full Stack Developer</strong>.</td></tr>
+<tr><td>💼 <strong>Internship → Hired</strong></td><td>800 hours of on-the-job internship that turned into a full-time position.</td></tr>
+<tr><td>👨‍💻 <strong>Today</strong></td><td>Full Stack Developer @ <strong>Quasar Software</strong>, focused on front-end across web & mobile.</td></tr>
+</table>
 
 ---
 
@@ -49,11 +49,11 @@ Today I build cross-platform mobile apps with **Flutter** and modern web apps wi
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vue&theme=dark" title="Vue.js" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=nuxt&theme=dark" title="Nuxt.js" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" title="Nuxt.js" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=flutter&theme=dark" title="Flutter" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=reactnative&theme=dark" title="React Native" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=expo&theme=dark" title="Expo" width="48" height="48" />
+<img src="https://img.shields.io/badge/React_Native-3B82F6?style=flat-square&logo=react&logoColor=white" title="React Native" style="height:48px;vertical-align:middle" />
+<img src="https://img.shields.io/badge/Expo-8B5CF6?style=flat-square&logo=expo&logoColor=white" title="Expo" style="height:48px;vertical-align:middle" />
 </div>
 
 **🗄️ Backend, Database & Cloud**
@@ -62,7 +62,9 @@ Today I build cross-platform mobile apps with **Flutter** and modern web apps wi
 <img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=supabase&theme=dark" title="Supabase" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" width="48" height="48" />
+<img src="https://img.shields.io/badge/AWS_Amplify-A78BFA?style=flat-square&logo=awsamplify&logoColor=white" title="AWS Amplify" style="height:48px;vertical-align:middle" />
 </div>
 
 **🛠️ Tools & Platforms**
