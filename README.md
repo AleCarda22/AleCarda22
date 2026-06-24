@@ -74,6 +74,7 @@ Today I build cross-platform mobile apps with **Flutter** and modern web apps wi
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=netlify&theme=dark" title="Netlify" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" width="48" height="48" />
+<img src="assets/playconsole-icon.png" title="Google Play Console" width="48" height="48" />
 </div>
 
 > 💜 **Daily drivers:** JavaScript, TypeScript, Dart, HTML & CSS — with Flutter for mobile and Vue.js + Nuxt.js for web.
