@@ -34,19 +34,46 @@ Today I build cross-platform mobile apps with **Flutter** and modern web apps wi
 
 **💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,dart,html,css,cpp,java,py&theme=dark" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=dart&theme=dark" title="Dart" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" width="48" height="48" />
+</div>
 
 **🎨 Frontend & Mobile Frameworks**
 
-<img src="https://skillicons.dev/icons?i=vue,nuxt,flutter,react,reactnative,expo&theme=dark" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" title="Vue.js" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=nuxt&theme=dark" title="Nuxt.js" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" title="Flutter" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=reactnative&theme=dark" title="React Native" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=expo&theme=dark" title="Expo" width="48" height="48" />
+</div>
 
 **🗄️ Backend, Database & Cloud**
 
-<img src="https://skillicons.dev/icons?i=firebase,postgres,supabase,aws&theme=dark" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=supabase&theme=dark" title="Supabase" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" width="48" height="48" />
+</div>
 
 **🛠️ Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,netlify,androidstudio&theme=dark" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=netlify&theme=dark" title="Netlify" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" width="48" height="48" />
+</div>
 
 > 💜 **Daily drivers:** JavaScript, TypeScript, Dart, HTML & CSS — with Flutter for mobile and Vue.js + Nuxt.js for web.
 
@@ -85,8 +112,6 @@ Today I build cross-platform mobile apps with **Flutter** and modern web apps wi
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/AleCarda22/AleCarda22/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 </div>
-
-> ⚠️ This will appear empty until you add the GitHub Action below to this repo (instructions in chat).
 
 ---
 
