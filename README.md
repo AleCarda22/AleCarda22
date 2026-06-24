@@ -52,8 +52,7 @@ Today I build cross-platform mobile apps with **Flutter** and modern web apps wi
 <img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" title="Nuxt.js" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=flutter&theme=dark" title="Flutter" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" width="48" height="48" />
-<img src="https://img.shields.io/badge/React_Native-3B82F6?style=flat-square&logo=react&logoColor=white" title="React Native" style="height:48px;vertical-align:middle" />
-<img src="https://img.shields.io/badge/Expo-8B5CF6?style=flat-square&logo=expo&logoColor=white" title="Expo" style="height:48px;vertical-align:middle" />
+<img src="assets/expo-icon.png" title="Expo" width="48" height="48" />
 </div>
 
 **🗄️ Backend, Database & Cloud**
@@ -64,7 +63,7 @@ Today I build cross-platform mobile apps with **Flutter** and modern web apps wi
 <img src="https://skillicons.dev/icons?i=supabase&theme=dark" title="Supabase" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" width="48" height="48" />
-<img src="https://img.shields.io/badge/AWS_Amplify-A78BFA?style=flat-square&logo=awsamplify&logoColor=white" title="AWS Amplify" style="height:48px;vertical-align:middle" />
+<img src="assets/amplify-icon.png" title="AWS Amplify" width="48" height="48" />
 </div>
 
 **🛠️ Tools & Platforms**
@@ -94,8 +93,8 @@ Today I build cross-platform mobile apps with **Flutter** and modern web apps wi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AleCarda22&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9&ring_color=8B5CF6" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleCarda22&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9&langs_count=8" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AleCarda22&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9&ring_color=8B5CF6&cache_seconds=21600" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleCarda22&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9&langs_count=8&cache_seconds=21600" width="38%" />
 
 <br>
 
