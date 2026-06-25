@@ -94,12 +94,7 @@ Today I build cross-platform mobile apps with **Flutter** and modern web apps wi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AleCarda22&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9&ring_color=8B5CF6&cache_seconds=21600" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleCarda22&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9&langs_count=8&cache_seconds=21600" width="38%" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AleCarda22&theme=transparent&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AleCarda22&theme=transparent&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="75%" />
 
 </div>
 
